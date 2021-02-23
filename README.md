@@ -15,3 +15,6 @@ this repository contains all the resources required during semester 1 (will keep
 ## [PLAYLIST 1](https://www.youtube.com/playlist?list=PLbkIghvjQ7P9THjzpqSA1UWD0-VWMZlsl)
 ## [PLAYLIST 2](https://www.youtube.com/playlist?list=PLelrRST3_LQufYMGqpzhU9AO8LcHhVjFp)
 ## [PLAYLIST 3](https://www.youtube.com/playlist?list=PLFLsnGbE__nStX7eBKlpPqInB3ymzSfup)
+# ELECTRICAL TECHNOLOGY
+## [DC NETWORKS](https://www.youtube.com/watch?v=VaNs7oq8r-Y&list=PLhSp9OSVmeyKxOf7U-BOH5onsL5WvU7WY)
+## [AC NETWORKS](https://www.youtube.com/watch?v=pbCQ9033HDE&list=PLySVDJoIJATda7ZQIr46hXZH10GcRkJoE)
