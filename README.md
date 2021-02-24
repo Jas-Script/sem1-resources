@@ -18,3 +18,6 @@ this repository contains all the resources required during semester 1 (will keep
 # ELECTRICAL TECHNOLOGY
 ## [DC NETWORKS](https://www.youtube.com/watch?v=VaNs7oq8r-Y&list=PLhSp9OSVmeyKxOf7U-BOH5onsL5WvU7WY)
 ## [AC NETWORKS](https://www.youtube.com/watch?v=pbCQ9033HDE&list=PLySVDJoIJATda7ZQIr46hXZH10GcRkJoE)
+# MATHS
+## [SUCCESSIVE DIFFERENTIATION](https://www.youtube.com/watch?v=d7Dv8y6YVsw&list=PLVCBPCYGv7bAkwbqiVC5CKGRnewOeqMeM)
+
