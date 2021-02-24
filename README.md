@@ -20,4 +20,4 @@ this repository contains all the resources required during semester 1 (will keep
 ## [AC NETWORKS](https://www.youtube.com/watch?v=pbCQ9033HDE&list=PLySVDJoIJATda7ZQIr46hXZH10GcRkJoE)
 # MATHS
 ## [SUCCESSIVE DIFFERENTIATION](https://www.youtube.com/watch?v=d7Dv8y6YVsw&list=PLVCBPCYGv7bAkwbqiVC5CKGRnewOeqMeM)
-
+## [BETA GAMMA FUNCTIONS](https://www.youtube.com/watch?v=DUZHGiL_3r4&list=PLhSp9OSVmeyIADP2WgrRNsoj3OdItMqSv)
