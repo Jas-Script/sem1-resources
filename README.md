@@ -21,3 +21,4 @@ this repository contains all the resources required during semester 1 (will keep
 # MATHS
 ## [SUCCESSIVE DIFFERENTIATION](https://www.youtube.com/watch?v=d7Dv8y6YVsw&list=PLVCBPCYGv7bAkwbqiVC5CKGRnewOeqMeM)
 ## [BETA GAMMA FUNCTIONS](https://www.youtube.com/watch?v=DUZHGiL_3r4&list=PLhSp9OSVmeyIADP2WgrRNsoj3OdItMqSv)
+## [INFINITE SERIES](https://www.youtube.com/watch?v=m7ATbosllvs&list=PLhSp9OSVmeyI3uivqqHzrlomwD6gZx2-R)
