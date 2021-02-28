@@ -23,3 +23,4 @@ this repository contains all the resources required during semester 1 (will keep
 ## [BETA GAMMA FUNCTIONS](https://www.youtube.com/watch?v=DUZHGiL_3r4&list=PLhSp9OSVmeyIADP2WgrRNsoj3OdItMqSv)
 ## [INFINITE SERIES](https://www.youtube.com/watch?v=m7ATbosllvs&list=PLhSp9OSVmeyI3uivqqHzrlomwD6gZx2-R)
 ## [MATRICES](https://www.youtube.com/watch?v=pfN1_rrEEuw&list=PLhSp9OSVmeyIVQpCt2kwsC1dNVl1GwlVn)
+## [LEBNITZ, MCLAURIN, TAYLOR THEOREMS](https://www.youtube.com/watch?v=bUBVadnWmNs&list=PLhSp9OSVmeyJYduFitVoailIIUVIgrPa3)
