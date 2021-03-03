@@ -11,6 +11,7 @@ this repository contains all the resources required during semester 1 (will keep
 ## [POLARIZATION](https://www.youtube.com/watch?v=ZM1XhBocTrM&list=PL-eLHEko-mgJsPDsL1r_S8nENDR8ju77q)
 ## [INTERFERENCE](https://www.youtube.com/watch?v=5yzLt9w3UqU&list=PL5zwY2E7i60X095MhnHZ31LAjo2rqUhNr)
 ## [RELATIVITY](https://www.youtube.com/watch?v=DxRfoYTFzUY&list=PLhSp9OSVmeyLA34TA4c6d511eqh9SLXE0)
+## [ULTRASONICS](https://www.youtube.com/watch?v=EN123m-rSXs&list=PLKyLADq8HOBoXfhXO0Yy7YUuHsTvzCEeW)
 # MANUFACTURING PROCESSES
 ## [PLAYLIST 1](https://www.youtube.com/playlist?list=PLbkIghvjQ7P9THjzpqSA1UWD0-VWMZlsl)
 ## [PLAYLIST 2](https://www.youtube.com/playlist?list=PLelrRST3_LQufYMGqpzhU9AO8LcHhVjFp)
