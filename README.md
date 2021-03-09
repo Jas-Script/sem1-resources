@@ -1,6 +1,6 @@
 # sem1-resources
 this repository contains all the resources required during semester 1 (will keep updating) 
-
+!!IMPORTANT: ALL THE CREDIT GOES TO ALL THE TEACHERS RELATED IN THE LINKS GIVEN BELOW I HAVE PROVIDED THIS LINKS JUST AS AN ASSISTANCE TO STUDENTS LOOKING FOR RESOURCE LECTURES. A SPECIAL THANKS TO ALL THE TEACHERS WHO MADE THESE LECTURES !!
 # CHEMISTRY
 ## [PHASE RULE](https://www.youtube.com/watch?v=qrdGEJyLdV0&list=PLjffvki0rNNHx3DZnaSdaVs7uOSt01JhC)
 ## [CATALYSIS](https://www.youtube.com/playlist?list=PLKyLADq8HOBpbddPb5A2KtzjPaSVg7Qtl)
@@ -16,6 +16,7 @@ this repository contains all the resources required during semester 1 (will keep
 ## [PLAYLIST 1](https://www.youtube.com/playlist?list=PLbkIghvjQ7P9THjzpqSA1UWD0-VWMZlsl)
 ## [PLAYLIST 2](https://www.youtube.com/playlist?list=PLelrRST3_LQufYMGqpzhU9AO8LcHhVjFp)
 ## [PLAYLIST 3](https://www.youtube.com/playlist?list=PLFLsnGbE__nStX7eBKlpPqInB3ymzSfup)
+## [WELDING](https://www.youtube.com/playlist?list=PL727BYvm8B1mQu4NDJlpoIuVrUbTny64W)
 # ELECTRICAL TECHNOLOGY
 ## [DC NETWORKS](https://www.youtube.com/watch?v=VaNs7oq8r-Y&list=PLhSp9OSVmeyKxOf7U-BOH5onsL5WvU7WY)
 ## [AC NETWORKS](https://www.youtube.com/watch?v=pbCQ9033HDE&list=PLySVDJoIJATda7ZQIr46hXZH10GcRkJoE)
